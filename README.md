@@ -26,3 +26,7 @@ Including indoor/outdoor, time of day, type of light, and the main subject (peop
 Note:
 The expert retouching results included in this archive are only stored as a Lightroom catalog, not as exported images.
 To obtain the actual retouched images, they still need to be processed and exported through Lightroom. However, this is quite easy, and you can ask GPT for the specific method. The export resolution can also be chosen as needed.
+
+
+If this content infringes any copyright or related rights, please contact me, and I will remove it promptly. 
+my email address:18531910396@163.com
